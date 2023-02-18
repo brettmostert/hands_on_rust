@@ -1,0 +1,6 @@
+[workspace]
+members = [
+	"./apps/clippy",
+    "./apps/hello",
+    "./apps/treehouse",
+]
