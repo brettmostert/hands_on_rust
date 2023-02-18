@@ -4,7 +4,7 @@
 use std::io::stdin;
 fn main() {
     let mut visitor_list = vec![
-        Visitor::new("bert", "Hellow Bert, enjoy your treehouse."),
+        Visitor::new("bert", "Hello Bert, enjoy your treehouse."),
         Visitor::new("steve", "Hi Steave. Your milk is in the fridge."),
         Visitor::new("jane", "Hello Jane, enjoy your day."),
     ];
